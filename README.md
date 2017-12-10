@@ -27,7 +27,15 @@ minertopia.org
 
 timeteh.com
 
-##explorer hosts
+unimining.net
+
+hashparty.io
+
+
+##explorer hosts:
+
 http://www.explorerz.top
+
 prohashing
+
 thecryptochat
