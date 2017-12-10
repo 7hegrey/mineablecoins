@@ -14,3 +14,15 @@ vivo https://www.vivocrypto.com/  explorer: http://vivo.explorerz.top:3003/ exch
 
 
 Pools:
+
+altminer.net
+
+yiimp.eu
+
+mine.zpool.ca
+
+mining-dutch.nl
+
+minertopia.org
+
+timeteh.com
