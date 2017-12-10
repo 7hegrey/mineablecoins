@@ -7,13 +7,13 @@ http://purexplorer.dynu.net
 https://shieldcoin.github.io
 
 
-Coins:
+##Coins:
 
 vivo https://www.vivocrypto.com/  explorer: http://vivo.explorerz.top:3003/ exchanges: coinsmarkets cryptopia algo: neoscrypt
 
 
 
-Pools:
+##Pools:
 
 altminer.net
 
@@ -26,3 +26,8 @@ mining-dutch.nl
 minertopia.org
 
 timeteh.com
+
+##explorer hosts
+http://www.explorerz.top
+prohashing
+thecryptochat
