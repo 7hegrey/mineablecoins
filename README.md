@@ -32,6 +32,21 @@ unimining.net
 hashparty.io
 
 
+https://arcpool.com
+
+http://bsod.pw/
+
+https://yiimp.masterhash.us/
+
+http://mineblocks.co.uk
+
+http://mpos-pools.com
+
+http://yiimp.poolofd32th.club
+
+
+
+
 ##explorer hosts:
 
 http://www.explorerz.top
