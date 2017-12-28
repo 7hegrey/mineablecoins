@@ -54,3 +54,6 @@ http://www.explorerz.top
 prohashing
 
 thecryptochat
+
+## Exchanges:
+https://www.outletbit.com/market
